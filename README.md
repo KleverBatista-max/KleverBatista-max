@@ -13,8 +13,8 @@ Constructor de sistemas con título de Doctor en Medicina y Cirugía. Vivo en Pa
 
 ## Lo que escribo
 
-- [Cuadra](https://kleverbatista-max.github.io/blog/cuadra/): cómo conecté cuatro bancos en un cuadre diario.
-- [La memoria compartida](https://kleverbatista-max.github.io/blog/memoria/): cómo le di memoria a Claude con archivos de texto.
+- [Cuadra](https://kleverbatista-max.github.io/blog/cuadra.html): cómo conecté cuatro bancos en un cuadre diario.
+- [La memoria compartida](https://kleverbatista-max.github.io/blog/memoria.html): cómo le di memoria a Claude con archivos de texto.
 
 ## Herramientas
 
