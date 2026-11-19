@@ -1,6 +1,6 @@
 # Hola, soy John Batista
 
-Constructor de sistemas con título de Doctor en Medicina y Cirugía. Vivo en Panamá y hago apps de finanzas, facturas y recetas con **Claude Code**.
+Constructor de sistemas con título de Doctor en Medicina y Cirugía. Vivo en Panamá y hago apps de finanzas, facturas y recetas.
 
 **Sitio y blog:** https://kleverbatista-max.github.io
 
@@ -14,7 +14,7 @@ Constructor de sistemas con título de Doctor en Medicina y Cirugía. Vivo en Pa
 ## Lo que escribo
 
 - [Cuadra](https://kleverbatista-max.github.io/blog/cuadra.html): cómo conecté cuatro bancos en un cuadre diario.
-- [La memoria compartida](https://kleverbatista-max.github.io/blog/memoria.html): cómo le di memoria a Claude con archivos de texto.
+- [La memoria compartida](https://kleverbatista-max.github.io/blog/memoria.html): cómo le di memoria a mi asistente de IA con archivos de texto.
 
 ## Herramientas
 
