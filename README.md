@@ -23,4 +23,4 @@ Python · JavaScript · Bash · Docker · Linux · ESP32 / ESPHome · Arduino ·
 
 ## Apoyar
 
-Todo mi código es gratis. Si te sirvió, puedes [donar por PayPal](https://www.paypal.com/donate/?business=johnkleverbatista%40gmail.com&no_recurring=0&currency_code=USD).
+Todo mi código es gratis. Si te sirvió, puedes [donar por PayPal](https://www.paypal.com/donate/?business=johnkleverbatista%40hotmail.com&no_recurring=0&currency_code=USD).
