@@ -20,3 +20,7 @@ Soy vago a propósito: si algo se repite, lo automatizo, aunque me cueste días 
 ## Herramientas
 
 Python · JavaScript · Bash · Docker · Linux · ESP32 / ESPHome · Arduino · Raspberry Pi · Home Assistant · Modbus · Diseño 3D
+
+## Apoyar
+
+Todo mi código es gratis. Si te sirvió, puedes [donar por PayPal](https://www.paypal.com/donate/?business=johnkleverbatista%40gmail.com&no_recurring=0&currency_code=USD).
