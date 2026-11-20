@@ -1,6 +1,6 @@
 # Hola, soy John Batista
 
-Constructor de sistemas con título de Doctor en Medicina y Cirugía. Vivo en Panamá y hago apps de finanzas, facturas y recetas.
+Constructor de sistemas. Empresario desde los 16, Doctor en Medicina y Cirugía y programador autodidacta. Vivo en Panamá. Hago apps de finanzas, facturas y recetas, y también hardware: ESP32, Raspberry Pi, Home Assistant, un sistema solar propio que diseñé e instalé en 2024, y piezas que diseño e imprimo en 3D.
 
 **Sitio y blog:** https://kleverbatista-max.github.io
 
@@ -17,4 +17,4 @@ Constructor de sistemas con título de Doctor en Medicina y Cirugía. Vivo en Pa
 
 ## Herramientas
 
-Python · JavaScript · Bash · Docker · Linux · Arduino · Raspberry Pi
+Python · JavaScript · Bash · Docker · Linux · ESP32 / ESPHome · Arduino · Raspberry Pi · Home Assistant · Modbus · Diseño 3D
