@@ -13,8 +13,8 @@ Soy vago a propósito: si algo se repite, lo automatizo, aunque me cueste días 
 - [**Generador de facturas**](https://kleverbatista-max.github.io/blog/facturas.html): facturas, proformas y cotizaciones en PDF, todo en tu navegador. [Código](https://github.com/KleverBatista-max/generador-facturas)
 - [**Scanner Effect**](https://kleverbatista-max.github.io/blog/scanner.html): efecto de escáner viejo para cualquier foto o PDF, sin subir nada. [Código](https://github.com/KleverBatista-max/scanner-effect)
 - [**La casa solar**](https://kleverbatista-max.github.io/blog/casa-solar.html): paneles, ESP32 y Home Assistant; una casa que se enfría con el sol. Mapa: [solar-home-overview](https://github.com/KleverBatista-max/solar-home-overview) · [monitor Modbus del inversor](https://github.com/KleverBatista-max/solar-inverter-modbus-monitor) · [controlador solar del aire](https://github.com/KleverBatista-max/solar-ac-controller) · [cargador Bluetti](https://github.com/KleverBatista-max/bluetti-solar-charger) · [controladores de la casa](https://github.com/KleverBatista-max/house-relay-controllers)
-- [**Piezas 3D**](https://github.com/KleverBatista-max/piezas-3d): soporte de cables y tapas de tomacorriente y cargador, diseñadas por mí.
-- [**Amazon order tracking scraper**](https://github.com/KleverBatista-max/amazon-order-tracking-scraper): uno de mis primeros proyectos; junta los tracking IDs de tus pedidos.
+- [**Piezas 3D**](https://kleverbatista-max.github.io/blog/piezas-3d.html): soporte y tapas de cables, tomacorriente y cargador, y una pieza para mi asador, diseñadas por mí. [Código](https://github.com/KleverBatista-max/piezas-3d)
+- [**Impuestos en automático**](https://kleverbatista-max.github.io/blog/tax-refund.html): uno de mis primeros proyectos; un bot, macros de Excel y atajos para recuperar impuestos de ventas. [Código](https://github.com/KleverBatista-max/tax-refund-automation) · [scraper de Amazon](https://github.com/KleverBatista-max/amazon-order-tracking-scraper)
 - [**La memoria compartida**](https://kleverbatista-max.github.io/blog/memoria.html): cómo le di memoria a mi asistente de IA con archivos de texto.
 
 ## Herramientas
