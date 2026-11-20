@@ -6,16 +6,35 @@ Constructor de sistemas. Empresario desde los 16, Doctor en Medicina y Cirugía 
 
 ## Lo hice una vez para no hacerlo más
 
-Soy vago a propósito: si algo se repite, lo automatizo, aunque me cueste días de desvelo.
+Soy vago a propósito: si algo se repite, lo automatizo, aunque me cueste días de desvelo. Cada proyecto tiene su historia en el [blog](https://kleverbatista-max.github.io/) y su propio repo.
 
-- [**Cuadra**](https://kleverbatista-max.github.io/blog/cuadra.html): finanzas personales que se cuadran solas. Concilia bancos panameños, tarjetas, facturas y cuentas por cobrar. [Código](https://github.com/KleverBatista-max/cuadra)
-- [**Recetario**](https://kleverbatista-max.github.io/blog/recetario.html): recetas médicas en PDF con diagnóstico CIE-10, medicamentos y sello. [Código](https://github.com/KleverBatista-max/recetario-pdf)
-- [**Generador de facturas**](https://kleverbatista-max.github.io/blog/facturas.html): facturas, proformas y cotizaciones en PDF, todo en tu navegador. [Código](https://github.com/KleverBatista-max/generador-facturas)
-- [**Scanner Effect**](https://kleverbatista-max.github.io/blog/scanner.html): efecto de escáner viejo para cualquier foto o PDF, sin subir nada. [Código](https://github.com/KleverBatista-max/scanner-effect)
-- [**La casa solar**](https://kleverbatista-max.github.io/blog/casa-solar.html): paneles, ESP32 y Home Assistant; una casa que se enfría con el sol. Mapa: [solar-home-overview](https://github.com/KleverBatista-max/solar-home-overview) · [monitor Modbus del inversor](https://github.com/KleverBatista-max/solar-inverter-modbus-monitor) · [controlador solar del aire](https://github.com/KleverBatista-max/solar-ac-controller) · [cargador Bluetti](https://github.com/KleverBatista-max/bluetti-solar-charger) · [controladores de la casa](https://github.com/KleverBatista-max/house-relay-controllers)
-- [**Piezas 3D**](https://kleverbatista-max.github.io/blog/piezas-3d.html): soporte y tapas de cables, tomacorriente y cargador, y una pieza para mi asador, diseñadas por mí. [Código](https://github.com/KleverBatista-max/piezas-3d)
-- [**Impuestos en automático**](https://kleverbatista-max.github.io/blog/tax-refund.html): uno de mis primeros proyectos; un bot, macros de Excel y atajos para recuperar impuestos de ventas. [Código](https://github.com/KleverBatista-max/tax-refund-automation) · [scraper de Amazon](https://github.com/KleverBatista-max/amazon-order-tracking-scraper)
+### 💻 Apps
+| Proyecto | Qué hace | Código |
+|---|---|---|
+| [**Cuadra**](https://kleverbatista-max.github.io/blog/cuadra.html) | Finanzas personales que se cuadran solas: bancos panameños, tarjetas, facturas y cuentas por cobrar | [cuadra](https://github.com/KleverBatista-max/cuadra) |
+| [**Recetario**](https://kleverbatista-max.github.io/blog/recetario.html) | Recetas médicas en PDF con diagnóstico CIE-10 y medicamentos | [recetario-pdf](https://github.com/KleverBatista-max/recetario-pdf) |
+| [**Generador de facturas**](https://kleverbatista-max.github.io/blog/facturas.html) | Facturas, proformas y cotizaciones en PDF, todo en el navegador | [generador-facturas](https://github.com/KleverBatista-max/generador-facturas) |
+| [**Scanner Effect**](https://kleverbatista-max.github.io/blog/scanner.html) | Efecto de escáner viejo para cualquier foto o PDF, sin subir nada | [scanner-effect](https://github.com/KleverBatista-max/scanner-effect) |
+
+### ☀️ La casa solar ([historia](https://kleverbatista-max.github.io/blog/casa-solar.html))
+Cinco repos que se hablan entre sí por Home Assistant; empieza por el mapa: [**solar-home-overview**](https://github.com/KleverBatista-max/solar-home-overview).
+| Repo | Qué hace |
+|---|---|
+| [solar-inverter-modbus-monitor](https://github.com/KleverBatista-max/solar-inverter-modbus-monitor) | ESP32 que escucha el inversor por Modbus (sniffer propio), sensores y manuales |
+| [solar-ac-controller](https://github.com/KleverBatista-max/solar-ac-controller) | Aire acondicionado que arranca en 26 °C y baja por etapas con el excedente solar |
+| [bluetti-solar-charger](https://github.com/KleverBatista-max/bluetti-solar-charger) | Carga la Bluetti solo con lo que sobra |
+| [house-relay-controllers](https://github.com/KleverBatista-max/house-relay-controllers) | Relés, luces, bomba del refrigerador y reinicio del router |
+
+### 🛠️ Hardware y primeros proyectos
+| Proyecto | Qué es | Código |
+|---|---|---|
+| [**Piezas 3D**](https://kleverbatista-max.github.io/blog/piezas-3d.html) | Soportes, tapas y mi propio Slow 'N Sear, diseñados por mí | [piezas-3d](https://github.com/KleverBatista-max/piezas-3d) |
+| [**Impuestos en automático**](https://kleverbatista-max.github.io/blog/tax-refund.html) | Bot, macros de Excel y atajos para recuperar impuestos de ventas | [tax-refund-automation](https://github.com/KleverBatista-max/tax-refund-automation) · [scraper de Amazon](https://github.com/KleverBatista-max/amazon-order-tracking-scraper) |
+
+### 🧠 IA
 - [**La memoria compartida**](https://kleverbatista-max.github.io/blog/memoria.html): cómo le di memoria a mi asistente de IA con archivos de texto.
+
+> Mis repos privados son solo el servidor y datos reales (bancos, clientes, memoria). Todo lo demás es público.
 
 ## Herramientas
 
