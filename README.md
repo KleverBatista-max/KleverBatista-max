@@ -4,7 +4,9 @@ Constructor de sistemas. Empresario desde los 16, Doctor en Medicina y Cirugía 
 
 **Sitio y blog:** https://kleverbatista-max.github.io
 
-## Proyectos y sus historias
+## Lo hice una vez para no hacerlo más
+
+Soy vago a propósito: si algo se repite, lo automatizo, aunque me cueste días de desvelo.
 
 - [**Cuadra**](https://kleverbatista-max.github.io/blog/cuadra.html): finanzas personales que se cuadran solas. Concilia bancos panameños, tarjetas, facturas y cuentas por cobrar. [Código](https://github.com/KleverBatista-max/cuadra)
 - [**Recetario**](https://kleverbatista-max.github.io/blog/recetario.html): recetas médicas en PDF con diagnóstico CIE-10, medicamentos y sello. [Código](https://github.com/KleverBatista-max/recetario-pdf)
