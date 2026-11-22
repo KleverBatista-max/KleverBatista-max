@@ -12,7 +12,7 @@ Soy vago a propósito: si algo se repite, lo automatizo, aunque me cueste días 
 | Proyecto | Qué hace | Código |
 |---|---|---|
 | [**Cuadra**](https://kleverbatista-max.github.io/blog/cuadra.html) | Finanzas personales que se cuadran solas: bancos panameños, tarjetas, facturas y cuentas por cobrar | [cuadra](https://github.com/KleverBatista-max/cuadra) |
-| [**Recetario**](https://kleverbatista-max.github.io/blog/recetario.html) | Recetas médicas en PDF con diagnóstico CIE-10 y medicamentos | [recetario-pdf](https://github.com/KleverBatista-max/recetario-pdf) |
+| [**Recetario**](https://kleverbatista-max.github.io/blog/recetario.html) | Recetas médicas en PDF con diagnóstico CIE-10 y medicamentos | [recetario-vitrina](https://github.com/KleverBatista-max/recetario-vitrina) (el código es privado) |
 | [**Generador de facturas**](https://kleverbatista-max.github.io/blog/facturas.html) | Facturas, proformas y cotizaciones en PDF, todo en el navegador | [generador-facturas](https://github.com/KleverBatista-max/generador-facturas) |
 | [**Paquetes**](https://kleverbatista-max.github.io/blog/paquetes.html) | La app de CJK Cargo: escanear paquetes, avisar por WhatsApp, entregar y cobrar | privado (herramienta de mi empresa) |
 | [**Reclamos**](https://kleverbatista-max.github.io/blog/reclamos.html) | Reclamos de seguro médico desde el teléfono: formulario, recetas y facturas en tres PDF | privado |
