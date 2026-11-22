@@ -29,6 +29,7 @@ Cinco repos que se hablan entre sí por Home Assistant; empieza por el mapa: [**
 | Proyecto | Qué es | Código |
 |---|---|---|
 | [**Piezas 3D**](https://kleverbatista-max.github.io/blog/piezas-3d.html) | Soportes, tapas y mi propio Slow 'N Sear, diseñados por mí | [piezas-3d](https://github.com/KleverBatista-max/piezas-3d) |
+| [**BliKVM**](https://kleverbatista-max.github.io/blog/blikvm.html) | Vigila y maneja un PC remoto: compara la pantalla por regiones y lee texto con OCR | [blikvm-remote-automation](https://github.com/KleverBatista-max/blikvm-remote-automation) |
 | [**Impuestos en automático**](https://kleverbatista-max.github.io/blog/tax-refund.html) | Bot, macros de Excel y atajos para recuperar impuestos de ventas | [tax-refund-automation](https://github.com/KleverBatista-max/tax-refund-automation) · [scraper de Amazon](https://github.com/KleverBatista-max/amazon-order-tracking-scraper) |
 
 ### 🧠 IA
