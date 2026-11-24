@@ -6,7 +6,7 @@ Constructor de sistemas. Empresario desde los 16, Doctor en Medicina y Cirugía 
 
 ## Lo mejor para empezar
 
-- [**Cuadra**](https://github.com/KleverBatista-max/cuadra): **todos tus bancos panameños en una sola app**: concilia solas las cuentas, tarjetas y facturas de BAC, Banesco, Global Bank y Banco General. La uso todos los días.
+- [**Cuadra**](https://github.com/KleverBatista-max/cuadra): **todos tus bancos panameños en una sola app**: concilia solas las cuentas, tarjetas y facturas. La uso todos los días.
 - [**blikvm-remote-automation**](https://github.com/KleverBatista-max/blikvm-remote-automation): toolkit en Python (cliente de API, comparación de pantalla por regiones y OCR) pensado para correr desde cron.
 - [**solar-inverter-modbus-monitor**](https://github.com/KleverBatista-max/solar-inverter-modbus-monitor): ESP32 que lee un inversor solar por Modbus y lo expone en Home Assistant.
 
@@ -20,7 +20,7 @@ Soy vago a propósito: si algo se repite, lo automatizo, aunque me cueste días 
 ### 💻 Apps
 | Proyecto | Qué hace | Código |
 |---|---|---|
-| [**Cuadra**](https://kleverbatista-max.github.io/blog/cuadra.html) | Todos tus bancos en una sola app, cuadrados solos: BAC, Banesco, Global Bank y Banco General, con tarjetas, facturas y cuentas por cobrar | [cuadra](https://github.com/KleverBatista-max/cuadra) |
+| [**Cuadra**](https://kleverbatista-max.github.io/blog/cuadra.html) | Todos tus bancos en una sola app, cuadrados solos, con tarjetas, facturas y cuentas por cobrar | [cuadra](https://github.com/KleverBatista-max/cuadra) |
 | [**Recetario**](https://kleverbatista-max.github.io/blog/recetario.html) | Recetas médicas en PDF con diagnóstico CIE-10 y medicamentos | [recetario-vitrina](https://github.com/KleverBatista-max/recetario-vitrina) (el código es privado) |
 | [**Generador de facturas**](https://kleverbatista-max.github.io/blog/facturas.html) | Facturas, proformas y cotizaciones en PDF, todo en el navegador | [generador-facturas](https://github.com/KleverBatista-max/generador-facturas) |
 | [**Paquetes**](https://kleverbatista-max.github.io/blog/paquetes.html) | La app de CJK Cargo: escanear paquetes, avisar por WhatsApp, entregar y cobrar | privado (herramienta de mi empresa) |
