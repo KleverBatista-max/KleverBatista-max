@@ -4,6 +4,12 @@ Constructor de sistemas. Empresario desde los 16, Doctor en Medicina y Cirugía 
 
 **Sitio y blog:** https://kleverbatista-max.github.io
 
+## Lo mejor para empezar
+
+- [**Cuadra**](https://github.com/KleverBatista-max/cuadra): app de finanzas en Python y Docker que concilia solas las cuentas, tarjetas y facturas de bancos panameños. La uso todos los días.
+- [**blikvm-remote-automation**](https://github.com/KleverBatista-max/blikvm-remote-automation): toolkit en Python (cliente de API, comparación de pantalla por regiones y OCR) pensado para correr desde cron.
+- [**solar-inverter-modbus-monitor**](https://github.com/KleverBatista-max/solar-inverter-modbus-monitor): ESP32 que lee un inversor solar por Modbus y lo expone en Home Assistant.
+
 ## Lo hice una vez para no hacerlo más
 
 Soy vago a propósito: si algo se repite, lo automatizo, aunque me cueste días de desvelo. Cada proyecto tiene su historia en el [blog](https://kleverbatista-max.github.io/) y su propio repo.
@@ -42,7 +48,3 @@ Cinco repos que se hablan entre sí por Home Assistant; empieza por el mapa: [**
 ## Herramientas
 
 Python · JavaScript · Bash · Docker · Linux · ESP32 / ESPHome · Arduino · Raspberry Pi · Home Assistant · Modbus · Diseño 3D
-
-## Apoyar
-
-Todo mi código es gratis. Si te sirvió, puedes [donar por PayPal](https://www.paypal.com/donate/?business=johnkleverbatista%40hotmail.com&no_recurring=0&currency_code=USD).
