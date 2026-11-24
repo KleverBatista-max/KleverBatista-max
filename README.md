@@ -49,3 +49,7 @@ Cinco repos que se hablan entre sí por Home Assistant; empieza por el mapa: [**
 ## Herramientas
 
 Python · JavaScript · Bash · Docker · Linux · ESP32 / ESPHome · Arduino · Raspberry Pi · Home Assistant · Modbus · Diseño 3D
+
+## Contacto
+
+💼 [LinkedIn](https://www.linkedin.com/in/john-batista-max)
