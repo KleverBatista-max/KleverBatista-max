@@ -41,6 +41,7 @@ Cinco repos que se hablan entre sí por Home Assistant; empieza por el mapa: [**
 | [**Impuestos en automático**](https://kleverbatista-max.github.io/blog/tax-refund.html) | Bot, macros de Excel y atajos para recuperar impuestos de ventas | [tax-refund-automation](https://github.com/KleverBatista-max/tax-refund-automation) · [scraper de Amazon](https://github.com/KleverBatista-max/amazon-order-tracking-scraper) |
 
 ### 🧠 IA
+- [**local-llm-finance-notes**](https://github.com/KleverBatista-max/local-llm-finance-notes): clasificar movimientos con un LLM local (Ollama + qwen 7B): cómo lo monté, qué falló y un clasificador pequeño con pruebas.
 - [**La memoria compartida**](https://kleverbatista-max.github.io/blog/memoria.html): cómo le di memoria a mi asistente de IA con archivos de texto.
 
 > Mis repos privados son solo el servidor y datos reales (bancos, clientes, memoria). Todo lo demás es público.
