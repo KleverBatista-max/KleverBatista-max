@@ -55,3 +55,4 @@ Python · JavaScript · Bash · Docker · Linux · ESP32 / ESPHome · Arduino ·
 💼 [LinkedIn](https://www.linkedin.com/in/john-batista-max)
 
 ✉️ johnkleverbatista@gmail.com
+✉️ johnkleverbatista@gmail.com
