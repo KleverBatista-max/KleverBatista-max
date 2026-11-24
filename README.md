@@ -10,6 +10,9 @@ Constructor de sistemas. Empresario desde los 16, Doctor en Medicina y Cirugía 
 - [**blikvm-remote-automation**](https://github.com/KleverBatista-max/blikvm-remote-automation): toolkit en Python (cliente de API, comparación de pantalla por regiones y OCR) pensado para correr desde cron.
 - [**solar-inverter-modbus-monitor**](https://github.com/KleverBatista-max/solar-inverter-modbus-monitor): ESP32 que lee un inversor solar por Modbus y lo expone en Home Assistant.
 
+<p align="center"><a href="https://kleverbatista-max.github.io/blog/cuadra.html"><img src="https://raw.githubusercontent.com/KleverBatista-max/cuadra/main/docs/cuadra-movil.png" alt="Cuadra: inicio, tarjetas, cuentas, movimientos y por cobrar" width="100%"></a></p>
+<p align="center"><sub>Cuadra, con datos de demostración inventados. <a href="https://kleverbatista-max.github.io/blog/cuadra.html">Lee su historia</a>.</sub></p>
+
 ## Lo hice una vez para no hacerlo más
 
 Soy vago a propósito: si algo se repite, lo automatizo, aunque me cueste días de desvelo. Cada proyecto tiene su historia en el [blog](https://kleverbatista-max.github.io/) y su propio repo.
